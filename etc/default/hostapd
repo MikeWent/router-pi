@@ -1,0 +1,6 @@
+##
+# This file is part of RouterPi setup 
+# github.com/MikeWent/RouterPi
+##
+
+DAEMON_CONF="/etc/hostapd/hostapd.conf"
